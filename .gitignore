@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+__pycache__
+.texpadtmp/
+data/
+logs/
+ckpts/
+samples/
