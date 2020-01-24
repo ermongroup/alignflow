@@ -3,7 +3,8 @@
 Source code for the paper:
 
   > [AlignFlow: Cycle Consistent Learning from Multiple Domains via Normalizing Flows](https://arxiv.org/abs/1905.12892)\
-  > Aditya Grover, Christopher Chute, Rui Shu, Zhangjie Cao, Stefano Ermon\
+  > Aditya Grover*, Christopher Chute*, Rui Shu, Zhangjie Cao, Stefano Ermon\
+  > AAAI Conference on Artificial Intelligence, 2020
   > _arXiv:1905.12892_
 
 ### Usage
